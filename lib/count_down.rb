@@ -4,4 +4,4 @@ while n > 0 do
   p n 
   n -=1
 end 
-p "Happy New Year!"
+print "Happy New Year!"
